@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-13T12:10:36.261Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="2Q7obhREHHMfc5ZAX35Z" version="15.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-13T12:14:59.145Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="NMBTGbFMu7aHBvZx_BkB" version="15.2.1" type="github">
   <diagram id="vNstaERwwWh0DBgsWRbl" name="Page-1">
     <mxGraphModel dx="946" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -39,20 +39,56 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bZDILimtqjILJS-sSr30-4" value="&lt;font style=&quot;font-size: 14px&quot;&gt;5&lt;br&gt;[1,2,5]&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="bZDILimtqjILJS-sSr30-4" value="&lt;font style=&quot;font-size: 14px&quot;&gt;4&lt;br&gt;[1,2,5]&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="170" y="230" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="bZDILimtqjILJS-sSr30-6" value="&lt;font style=&quot;font-size: 14px&quot;&gt;5&lt;br&gt;[1,2,5]&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="bZDILimtqjILJS-sSr30-6" value="&lt;font style=&quot;font-size: 14px&quot;&gt;0&lt;br&gt;[1,2,5]&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="630" y="220" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="bZDILimtqjILJS-sSr30-8" value="&lt;font style=&quot;font-size: 14px&quot;&gt;5&lt;br&gt;[1,2,5]&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="380" y="280" width="80" height="80" as="geometry" />
+        <mxCell id="bZDILimtqjILJS-sSr30-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bZDILimtqjILJS-sSr30-8" target="bZDILimtqjILJS-sSr30-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bZDILimtqjILJS-sSr30-22" value="&lt;font style=&quot;font-size: 13px&quot;&gt;第二次选择1&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bZDILimtqjILJS-sSr30-21">
+          <mxGeometry x="-0.375" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bZDILimtqjILJS-sSr30-8" value="&lt;font style=&quot;font-size: 14px&quot;&gt;3&lt;br&gt;[1,2,5]&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="380" y="230" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bZDILimtqjILJS-sSr30-13" value="&lt;span style=&quot;font-size: 16px&quot;&gt;零钱兑换的第一步，就是分解问题规模，让问题规模不断的缩小；&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;那么如下图所示：&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;我们会有如下的最直观的分解；&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;1、第一个分支节点首先分解出1；&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;2、第二个分支节点分解出2；&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;3、第三个分支节点分解出5；&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="60" y="20" width="480" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="bZDILimtqjILJS-sSr30-14" value="&lt;font style=&quot;font-size: 14px&quot;&gt;5&lt;br&gt;[1,2,5]&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="bZDILimtqjILJS-sSr30-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bZDILimtqjILJS-sSr30-14" target="bZDILimtqjILJS-sSr30-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bZDILimtqjILJS-sSr30-19" value="第三次选择2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bZDILimtqjILJS-sSr30-18">
+          <mxGeometry x="-0.175" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bZDILimtqjILJS-sSr30-14" value="&lt;font style=&quot;font-size: 14px&quot;&gt;2&lt;br&gt;[1,2,5]&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="170" y="390" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bZDILimtqjILJS-sSr30-17" value="&lt;font style=&quot;font-size: 14px&quot;&gt;0&lt;br&gt;[1,2,5]&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="170" y="550" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bZDILimtqjILJS-sSr30-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bZDILimtqjILJS-sSr30-20" target="bZDILimtqjILJS-sSr30-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bZDILimtqjILJS-sSr30-26" value="&lt;font style=&quot;font-size: 13px&quot;&gt;第三次选择2&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bZDILimtqjILJS-sSr30-24">
+          <mxGeometry x="-0.2" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bZDILimtqjILJS-sSr30-20" value="&lt;font style=&quot;font-size: 14px&quot;&gt;2&lt;br&gt;[1,2,5]&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="380" y="390" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bZDILimtqjILJS-sSr30-23" value="&lt;font style=&quot;font-size: 14px&quot;&gt;0&lt;br&gt;[1,2,5]&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="380" y="545" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bZDILimtqjILJS-sSr30-27" value="&lt;font color=&quot;#ff3333&quot;&gt;&lt;b&gt;从现在这个区分方式，我们已经可以发现：&lt;br style=&quot;font-size: 14px&quot;&gt;分解出来的规模是包含重复的；&lt;br&gt;所以，现在的这种分解方式并不合理&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=18;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="530" y="420" width="280" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
