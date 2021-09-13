@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-13T01:01:00.776Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="8DrutXrzVJDqgbWDSU-1" version="15.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-13T12:09:59.042Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="SJscnOvVCEVjeL4AIJ2c" version="15.2.1" type="github">
   <diagram id="vNstaERwwWh0DBgsWRbl" name="Page-1">
     <mxGraphModel dx="946" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -29,16 +29,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bZDILimtqjILJS-sSr30-1" value="&lt;font style=&quot;font-size: 14px&quot;&gt;5&lt;br&gt;[1,2,5]&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="380" y="70" width="80" height="80" as="geometry" />
+          <mxGeometry x="380" y="120" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bZDILimtqjILJS-sSr30-4" value="&lt;font style=&quot;font-size: 14px&quot;&gt;5&lt;br&gt;[1,2,5]&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="170" y="180" width="80" height="80" as="geometry" />
+          <mxGeometry x="170" y="230" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bZDILimtqjILJS-sSr30-6" value="&lt;font style=&quot;font-size: 14px&quot;&gt;5&lt;br&gt;[1,2,5]&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="630" y="170" width="80" height="80" as="geometry" />
+          <mxGeometry x="630" y="220" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bZDILimtqjILJS-sSr30-8" value="&lt;font style=&quot;font-size: 14px&quot;&gt;5&lt;br&gt;[1,2,5]&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="380" y="230" width="80" height="80" as="geometry" />
+          <mxGeometry x="380" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bZDILimtqjILJS-sSr30-13" value="&lt;span style=&quot;font-size: 16px&quot;&gt;零钱兑换的第一步，就是分解问题规模，让问题规模不断的缩小；&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;那么如下图所示：&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;我们会有如下的最直观的分解；&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;1、第一个分支节点首先分解出1；&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;2、第二个分支节点分解出2；&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;3、第三个分支节点分解出5；&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="20" width="480" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
